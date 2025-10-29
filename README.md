@@ -17,8 +17,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/username/umkm-helper-specs?style=social" alt="GitHub stars">
-  <img src="https://img.shields.io/github/forks/username/umkm-helper-specs?style=social" alt="GitHub forks">
+  <img src="https://img.shields.io/github/stars/IsaOfficial/umkm-helper-app?style=social" alt="GitHub stars">
+  <img src="https://img.shields.io/github/forks/IsaOfficial/umkm-helper-app?style=social" alt="GitHub forks">
 </p>
 
 ---
