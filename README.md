@@ -13,6 +13,10 @@
 </p>
 
 <p align="center">
+  <img src="./assets/banner.png" alt="UMKM Helper Banner" width="800">
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/github/stars/username/umkm-helper-specs?style=social" alt="GitHub stars">
   <img src="https://img.shields.io/github/forks/username/umkm-helper-specs?style=social" alt="GitHub forks">
 </p>
@@ -20,8 +24,7 @@
 ---
 
 ## 🧭 Deskripsi Singkat
-**UMKM Helper** adalah aplikasi mobile berbasis **Flutter** untuk membantu pelaku **Usaha Mikro, Kecil, dan Menengah (UMKM)** dalam mengelola produk, pesanan, dan laporan penjualan.  
-Aplikasi dikembangkan dengan pendekatan **Document-First & Agile Workflow**, mengutamakan dokumentasi dan perencanaan sebelum implementasi kode.
+**UMKM Helper** adalah aplikasi mobile berbasis **Flutter** untuk membantu pelaku **Usaha Mikro, Kecil, dan Menengah (UMKM)** dalam mengelola produk, pesanan, dan laporan penjualan. Aplikasi dikembangkan dengan pendekatan **Document-First & Agile Workflow**, mengutamakan dokumentasi dan perencanaan sebelum implementasi kode.
 
 ---
 
@@ -126,7 +129,8 @@ Flutter App
 ---
 
 ## 👨‍💻 Pengembang
-**Nama:** Isa  
+**Nama:** Muhammad Isa Maulana
+**NIM:** 211240001099
 **Program Studi:** Teknik Informatika — UNISNU Jepara  
 **Mata Kuliah:** Pemrograman Mobile Lanjut  
 **Dosen:** Akhmad Khanif Zyen, M.Kom  
