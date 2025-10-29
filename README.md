@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/banner.png" alt="UMKM Helper Banner" width="800">
+  <img src="./assets/umkm-helper-banner.png" alt="UMKM Helper Banner" width="800">
 </p>
 
 <p align="center">
@@ -55,14 +55,14 @@
 ---
 
 ## 🧩 Arsitektur Sistem
-Flutter App
+```Flutter App
 ├── UI Layer (View)
 ├── State Management (Riverpod / Provider)
 ├── Local DB (Hive / SQLite)
 ├── Cloud DB (Firebase Firestore)
 ├── Storage (Firebase Storage)
 └── Sync Service (Offline-first)
-
+```
 ---
 
 📡 **Alur Data:**
